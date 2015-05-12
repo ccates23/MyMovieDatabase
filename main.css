@@ -1,0 +1,33 @@
+body {
+background-image: url('http://tinyurl.com/neyofwy')
+}
+ 
+.hidden {
+ display: none;
+}
+
+
+
+ 
+ 
+
+
+
+
+.search {
+ background-color: tomato;
+ color: white;
+ }
+
+ .row {
+   font-size: 20px;
+   color: white;
+ }
+
+ img {
+  max-width: 100px;
+
+ }
+ 
+
+
